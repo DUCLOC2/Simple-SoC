@@ -43,7 +43,7 @@ The CPU supports a subset of basic MIPS integer instructions, organized into thr
 The CPU contains a **general-purpose register file** used for arithmetic, logic, and data transfer operations.
 
 <p align="center">
-  <img src="docs/images/register.png" width="600"/>
+  <img src="images/register.png" width="600"/>
 </p>
 
 ---
