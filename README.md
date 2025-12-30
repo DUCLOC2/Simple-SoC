@@ -117,11 +117,11 @@ Software is developed using:
 ### 🔹 CPU simulation
 
 <p align="center">
-  <img src="images/wfcpu.png" width="750"/>
+  <img src="images/wf_cpu.png" width="750"/>
 </p>
 
 ### 🔹 SoC simulation
 
 <p align="center">
-  <img src="images/wfsoc.png" width="750"/>
+  <img src="images/wf_soc.png" width="750"/>
 </p>
