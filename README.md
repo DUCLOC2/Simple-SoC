@@ -110,3 +110,18 @@ Software is developed using:
 <p align="center">
   <img src="images/software.png" width="650"/>
 </p>
+
+## 8️⃣ Results
+
+
+### 🔹 CPU simulation
+
+<p align="center">
+  <img src="images/wfcpu.png" width="750"/>
+</p>
+
+### 🔹 SoC simulation
+
+<p align="center">
+  <img src="images/wfsoc.png" width="750"/>
+</p>
