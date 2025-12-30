@@ -23,17 +23,17 @@ The CPU supports a subset of basic MIPS integer instructions, organized into thr
 
 ### 🔹 R-Type Instruction Format
 <p align="center">
-  <img src="docs/images/r_type.png" width="600"/>
+  <img src="images/r_type.png" width="600"/>
 </p>
 
 ### 🔹 I-Type Instruction Format
 <p align="center">
-  <img src="docs/images/i_type.png" width="600"/>
+  <img src="images/i_type.png" width="600"/>
 </p>
 
 ### 🔹 J-Type Instruction Format
 <p align="center">
-  <img src="docs/images/j_type.png" width="600"/>
+  <img src="images/j_type.png" width="600"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@ The internal architecture of the MIPS CPU includes:
 - Write Back  
 
 <p align="center">
-  <img src="docs/images/cpu.png" width="700"/>
+  <img src="images/cpu.png" width="700"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ The Control Unit decodes instructions and generates control signals for:
 - Program Counter  
 
 <p align="center">
-  <img src="docs/images/control.png" width="650"/>
+  <img src="images/control.png" width="650"/>
 </p>
 
 ---
@@ -86,7 +86,7 @@ A simple system bus is used to connect:
 - Peripherals (GPIO, PWM)  
 
 <p align="center">
-  <img src="docs/images/systembus.png" width="650"/>
+  <img src="images/systembus.png" width="650"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ A simple system bus is used to connect:
 The complete SoC integration including CPU, memory, and peripherals is shown below.
 
 <p align="center">
-  <img src="docs/images/simplesoc.png" width="750"/>
+  <img src="images/simplesoc.png" width="750"/>
 </p>
 
 ---
@@ -108,5 +108,5 @@ Software is developed using:
 - MARS Simulator  
 
 <p align="center">
-  <img src="docs/images/software.png" width="650"/>
+  <img src="images/software.png" width="650"/>
 </p>
